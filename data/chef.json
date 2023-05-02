@@ -2,7 +2,7 @@
         "id": 1,
         "name": "Gualtiero Marchesi",
         "years_of_experience": 60,
-        "picture_url": "https://example.com/gualtiero-marchesi.jpg",
+        "picture_url": "https://i.ibb.co/k5WBZXW/febrian-zakaria-Si-Qgni-cq-Fg-unsplash.jpg",
         "recipes": ["Risotto alla milanese", "Pesto alla genovese", "Tiramisù"],
         "description": "Gualtiero Marchesi was an Italian chef and restaurateur who was considered the founder of modern Italian cuisine. He was the first Italian chef to be awarded three Michelin stars.",
         "rating": 4.8
@@ -11,7 +11,7 @@
         "id": 2,
         "name": "Massimo Bottura",
         "years_of_experience": 25,
-        "picture_url": "https://example.com/massimo-bottura.jpg",
+        "picture_url": "https://i.ibb.co/qnwMyYv/johnathan-macedo-4-NQEvx-W2-4w-unsplash.jpg",
         "recipes": ["Oops! I Dropped the Lemon Tart", "Five Ages of Parmigiano Reggiano", "Tortellini with Cream of Parmigiano Reggiano"],
         "description": "Massimo Bottura is an Italian chef and restaurateur who is the owner of Osteria Francescana, a three-Michelin-star restaurant in Modena, Italy. He is known for his innovative and playful approach to traditional Italian cuisine.",
         "rating": 4.9
@@ -20,7 +20,7 @@
         "id": 3,
         "name": "Gennaro Contaldo",
         "years_of_experience": 50,
-        "picture_url": "https://example.com/gennaro-contaldo.jpg",
+        "picture_url": "https://i.ibb.co/Bf2k6nZ/lasse-bergqvist-TYj7ey6xn9-M-unsplash.jpg",
         "recipes": ["Pasta alla norma", "Sicilian arancini", "Pesto alla trapanese"],
         "description": "Gennaro Contaldo is an Italian chef and restaurateur who is known for his traditional Italian cooking. He is a mentor to celebrity chef Jamie Oliver.",
         "rating": 4.7
@@ -29,7 +29,7 @@
         "id": 4,
         "name": "Lidia Bastianich",
         "years_of_experience": 70,
-        "picture_url": "https://example.com/lidia-bastianich.jpg",
+        "picture_url": "https://i.ibb.co/fq5Pf2H/michael-wave-CYn-QUywz-Bt-I-unsplash.jpg",
         "recipes": ["Spaghetti carbonara", "Osso buco alla milanese", "Tiramisù"],
         "description": "Lidia Bastianich is an Italian-American chef and restaurateur who is known for her expertise in Italian cuisine. She has authored several cookbooks and hosted several cooking shows.",
         "rating": 4.6
@@ -38,7 +38,7 @@
         "id": 5,
         "name": "Carlo Cracco",
         "years_of_experience": 30,
-        "picture_url": "https://example.com/carlo-cracco.jpg",
+        "picture_url": "https://i.ibb.co/px2b2sN/mohamed-nohassi-Ddgl-Eo-IC2y4-unsplash.jpg",
         "recipes": ["Risotto alla milanese", "Cotoletta alla milanese", "Tiramisù"],
         "description": "Carlo Cracco is an Italian chef and restaurateur who is known for his contemporary take on traditional Italian cuisine. He has worked at several Michelin-starred restaurants and has appeared on several cooking shows.",
         "rating": 4.8
@@ -47,7 +47,7 @@
         "id": 6,
         "name": "Nadia Santini",
         "years_of_experience": 50,
-        "picture_url": "https://example.com/nadia-santini.jpg",
+        "picture_url": "https://i.ibb.co/kDDQG9R/ronan-kruithof-GSD9-Vo-G6f-U-unsplash.jpg",
         "recipes": ["Ossobuco alla milanese", "Risotto with saffron", "Ravioli with sage butter sauce"],
         "description": "Carlo Cracco is an Italian chef and restaurateur who is known for his contemporary take on traditional Italian cuisine. He has worked at several Michelin-starred restaurants and has appeared on several cooking shows.",
         "rating": 4.8
