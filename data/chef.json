@@ -1,55 +1,200 @@
-[{
-        "id": 1,
-        "name": "Gualtiero Marchesi",
-        "years_of_experience": 60,
-        "picture_url": "https://i.ibb.co/k5WBZXW/febrian-zakaria-Si-Qgni-cq-Fg-unsplash.jpg",
-        "recipes": ["Risotto alla milanese", "Pesto alla genovese", "Tiramisù"],
-        "description": "Gualtiero Marchesi was an Italian chef and restaurateur who was considered the founder of modern Italian cuisine. He was the first Italian chef to be awarded three Michelin stars.",
-        "rating": 4.8
+[
+    {
+      "id": 1,
+      "name": "Gordon Ramsay",
+      "picture_url": "https://i.ibb.co/k5WBZXW/febrian-zakaria-Si-Qgni-cq-Fg-unsplash.jpg",
+      "years_of_experience": 30,
+      "likes": 20,
+      "recipes": [
+        {
+          "id": 1,
+          "name": "Beef Wellington",
+          "ingredients": ["2 lb beef tenderloin", "2 tbsp olive oil", "2 tsp dijon mustard", "8 oz prosciutto", "1 package puff pastry", "1 egg yolk"],
+          "steps": ["Preheat oven to 425°F.", "Season the beef with salt and pepper, then sear in a hot pan with olive oil until browned on all sides.", "Brush the beef with dijon mustard and wrap in prosciutto.", "Roll out the puff pastry and wrap around the beef, sealing the edges.", "Brush with egg yolk and bake in the oven for 40-50 minutes, until the pastry is golden brown."],
+          "image_url": "https://example.com/beef_wellington.jpg",
+          "rating": 4.8
+        },
+        {
+          "id": 2,
+          "name": "Shepherd's Pie",
+          "ingredients": ["1 lb ground lamb", "1 onion, diced", "3 carrots, diced", "2 cloves garlic, minced", "2 tbsp tomato paste", "1 tsp Worcestershire sauce", "1 cup beef broth", "2 cups mashed potatoes"],
+          "steps": ["Preheat oven to 375°F.", "Cook the lamb in a skillet over medium heat until browned, then add the onion, carrots, and garlic and cook until softened.", "Add the tomato paste, Worcestershire sauce, and beef broth and stir to combine.", "Transfer to a baking dish and top with mashed potatoes.", "Bake for 20-25 minutes, until the potatoes are golden brown."],
+          "image_url": "https://example.com/shepherds_pie.jpg",
+          "rating": 4.5
+        },
+        {
+          "id": 3,
+          "name": "Shepherd's Pie",
+          "ingredients": ["1 lb ground lamb", "1 onion, diced", "3 carrots, diced", "2 cloves garlic, minced", "2 tbsp tomato paste", "1 tsp Worcestershire sauce", "1 cup beef broth", "2 cups mashed potatoes"],
+          "steps": ["Preheat oven to 375°F.", "Cook the lamb in a skillet over medium heat until browned, then add the onion, carrots, and garlic and cook until softened.", "Add the tomato paste, Worcestershire sauce, and beef broth and stir to combine.", "Transfer to a baking dish and top with mashed potatoes.", "Bake for 20-25 minutes, until the potatoes are golden brown."],
+          "image_url": "https://example.com/shepherds_pie.jpg",
+          "rating": 4.5
+        }
+      ]
     },
     {
-        "id": 2,
-        "name": "Massimo Bottura",
-        "years_of_experience": 25,
-        "picture_url": "https://i.ibb.co/qnwMyYv/johnathan-macedo-4-NQEvx-W2-4w-unsplash.jpg",
-        "recipes": ["Oops! I Dropped the Lemon Tart", "Five Ages of Parmigiano Reggiano", "Tortellini with Cream of Parmigiano Reggiano"],
-        "description": "Massimo Bottura is an Italian chef and restaurateur who is the owner of Osteria Francescana, a three-Michelin-star restaurant in Modena, Italy. He is known for his innovative and playful approach to traditional Italian cuisine.",
-        "rating": 4.9
+      "id": 2,
+      "name": "Ina Garten",
+      "picture_url": "https://i.ibb.co/qnwMyYv/johnathan-macedo-4-NQEvx-W2-4w-unsplash.jpg",
+      "years_of_experience": 20,
+      "likes": 25,
+      "recipes": [
+        {
+          "id": 4,
+          "name": "Lemon Chicken",
+          "ingredients": ["4 bone-in, skin-on chicken breasts", "Kosher salt and freshly ground black pepper", "1/3 cup olive oil", "2 teaspoons grated lemon zest (2 lemons)", "1/3 cup freshly squeezed lemon juice", "1/4 cup minced fresh parsley", "2 tablespoons minced garlic (6 cloves)", "1 tablespoon minced fresh thyme leaves"],
+          "steps": ["Preheat the oven to 400 degrees F.", "Season the chicken breasts with salt and pepper.", "Combine the olive oil, lemon zest, lemon juice, parsley, garlic, and thyme in a small bowl.", "Pour the mixture over the chicken breasts.", "Bake for 30-40 minutes, until the chicken is cooked through."],
+          "image_url": "https://example.com/lemon_chicken.jpg",
+          "rating": 4.7
+        },
+        {
+          "id": 5,
+          "name": "Lemon Chicken",
+          "ingredients": ["4 bone-in, skin-on chicken breasts", "Kosher salt and freshly ground black pepper", "1/3 cup olive oil", "2 teaspoons grated lemon zest (2 lemons)", "1/3 cup freshly squeezed lemon juice", "1/4 cup minced fresh parsley", "2 tablespoons minced garlic (6 cloves)", "1 tablespoon minced fresh thyme leaves"],
+          "steps": ["Preheat the oven to 400 degrees F.", "Season the chicken breasts with salt and pepper.", "Combine the olive oil, lemon zest, lemon juice, parsley, garlic, and thyme in a small bowl.", "Pour the mixture over the chicken breasts.", "Bake for 30-40 minutes, until the chicken is cooked through."],
+          "image_url": "https://example.com/lemon_chicken.jpg",
+          "rating": 4.7
+        },
+        {
+          "id": 6,
+          "name": "Lemon Chicken",
+          "ingredients": ["4 bone-in, skin-on chicken breasts", "Kosher salt and freshly ground black pepper", "1/3 cup olive oil", "2 teaspoons grated lemon zest (2 lemons)", "1/3 cup freshly squeezed lemon juice", "1/4 cup minced fresh parsley", "2 tablespoons minced garlic (6 cloves)", "1 tablespoon minced fresh thyme leaves"],
+          "steps": ["Preheat the oven to 400 degrees F.", "Season the chicken breasts with salt and pepper.", "Combine the olive oil, lemon zest, lemon juice, parsley, garlic, and thyme in a small bowl.", "Pour the mixture over the chicken breasts.", "Bake for 30-40 minutes, until the chicken is cooked through."],
+          "image_url": "https://example.com/lemon_chicken.jpg",
+          "rating": 4.7
+        }
+      ]
     },
     {
-        "id": 3,
-        "name": "Gennaro Contaldo",
-        "years_of_experience": 50,
-        "picture_url": "https://i.ibb.co/Bf2k6nZ/lasse-bergqvist-TYj7ey6xn9-M-unsplash.jpg",
-        "recipes": ["Pasta alla norma", "Sicilian arancini", "Pesto alla trapanese"],
-        "description": "Gennaro Contaldo is an Italian chef and restaurateur who is known for his traditional Italian cooking. He is a mentor to celebrity chef Jamie Oliver.",
-        "rating": 4.7
+      "id": 3,
+      "name": "Ina Garten",
+      "picture_url": "https://i.ibb.co/qnwMyYv/johnathan-macedo-4-NQEvx-W2-4w-unsplash.jpg",
+      "years_of_experience": 20,
+      "likes": 22,
+      "recipes": [
+        {
+          "id": 7,
+          "name": "Lemon Chicken",
+          "ingredients": ["4 bone-in, skin-on chicken breasts", "Kosher salt and freshly ground black pepper", "1/3 cup olive oil", "2 teaspoons grated lemon zest (2 lemons)", "1/3 cup freshly squeezed lemon juice", "1/4 cup minced fresh parsley", "2 tablespoons minced garlic (6 cloves)", "1 tablespoon minced fresh thyme leaves"],
+          "steps": ["Preheat the oven to 400 degrees F.", "Season the chicken breasts with salt and pepper.", "Combine the olive oil, lemon zest, lemon juice, parsley, garlic, and thyme in a small bowl.", "Pour the mixture over the chicken breasts.", "Bake for 30-40 minutes, until the chicken is cooked through."],
+          "image_url": "https://example.com/lemon_chicken.jpg",
+          "rating": 4.7
+        },
+        {
+          "id": 8,
+          "name": "Lemon Chicken",
+          "ingredients": ["4 bone-in, skin-on chicken breasts", "Kosher salt and freshly ground black pepper", "1/3 cup olive oil", "2 teaspoons grated lemon zest (2 lemons)", "1/3 cup freshly squeezed lemon juice", "1/4 cup minced fresh parsley", "2 tablespoons minced garlic (6 cloves)", "1 tablespoon minced fresh thyme leaves"],
+          "steps": ["Preheat the oven to 400 degrees F.", "Season the chicken breasts with salt and pepper.", "Combine the olive oil, lemon zest, lemon juice, parsley, garlic, and thyme in a small bowl.", "Pour the mixture over the chicken breasts.", "Bake for 30-40 minutes, until the chicken is cooked through."],
+          "image_url": "https://example.com/lemon_chicken.jpg",
+          "rating": 4.7
+        },
+        {
+          "id": 9,
+          "name": "Lemon Chicken",
+          "ingredients": ["4 bone-in, skin-on chicken breasts", "Kosher salt and freshly ground black pepper", "1/3 cup olive oil", "2 teaspoons grated lemon zest (2 lemons)", "1/3 cup freshly squeezed lemon juice", "1/4 cup minced fresh parsley", "2 tablespoons minced garlic (6 cloves)", "1 tablespoon minced fresh thyme leaves"],
+          "steps": ["Preheat the oven to 400 degrees F.", "Season the chicken breasts with salt and pepper.", "Combine the olive oil, lemon zest, lemon juice, parsley, garlic, and thyme in a small bowl.", "Pour the mixture over the chicken breasts.", "Bake for 30-40 minutes, until the chicken is cooked through."],
+          "image_url": "https://example.com/lemon_chicken.jpg",
+          "rating": 4.7
+        }
+      ]
     },
     {
-        "id": 4,
-        "name": "Lidia Bastianich",
-        "years_of_experience": 70,
-        "picture_url": "https://i.ibb.co/fq5Pf2H/michael-wave-CYn-QUywz-Bt-I-unsplash.jpg",
-        "recipes": ["Spaghetti carbonara", "Osso buco alla milanese", "Tiramisù"],
-        "description": "Lidia Bastianich is an Italian-American chef and restaurateur who is known for her expertise in Italian cuisine. She has authored several cookbooks and hosted several cooking shows.",
-        "rating": 4.6
+      "id": 4,
+      "name": "Ina Garten",
+      "picture_url": "https://i.ibb.co/qnwMyYv/johnathan-macedo-4-NQEvx-W2-4w-unsplash.jpg",
+      "years_of_experience": 20,
+      "likes": 15,
+      "recipes": [
+        {
+          "id": 10,
+          "name": "Lemon Chicken",
+          "ingredients": ["4 bone-in, skin-on chicken breasts", "Kosher salt and freshly ground black pepper", "1/3 cup olive oil", "2 teaspoons grated lemon zest (2 lemons)", "1/3 cup freshly squeezed lemon juice", "1/4 cup minced fresh parsley", "2 tablespoons minced garlic (6 cloves)", "1 tablespoon minced fresh thyme leaves"],
+          "steps": ["Preheat the oven to 400 degrees F.", "Season the chicken breasts with salt and pepper.", "Combine the olive oil, lemon zest, lemon juice, parsley, garlic, and thyme in a small bowl.", "Pour the mixture over the chicken breasts.", "Bake for 30-40 minutes, until the chicken is cooked through."],
+          "image_url": "https://example.com/lemon_chicken.jpg",
+          "rating": 4.7
+        },
+        {
+          "id": 11,
+          "name": "Lemon Chicken",
+          "ingredients": ["4 bone-in, skin-on chicken breasts", "Kosher salt and freshly ground black pepper", "1/3 cup olive oil", "2 teaspoons grated lemon zest (2 lemons)", "1/3 cup freshly squeezed lemon juice", "1/4 cup minced fresh parsley", "2 tablespoons minced garlic (6 cloves)", "1 tablespoon minced fresh thyme leaves"],
+          "steps": ["Preheat the oven to 400 degrees F.", "Season the chicken breasts with salt and pepper.", "Combine the olive oil, lemon zest, lemon juice, parsley, garlic, and thyme in a small bowl.", "Pour the mixture over the chicken breasts.", "Bake for 30-40 minutes, until the chicken is cooked through."],
+          "image_url": "https://example.com/lemon_chicken.jpg",
+          "rating": 4.7
+        },
+        {
+          "id": 12,
+          "name": "Lemon Chicken",
+          "ingredients": ["4 bone-in, skin-on chicken breasts", "Kosher salt and freshly ground black pepper", "1/3 cup olive oil", "2 teaspoons grated lemon zest (2 lemons)", "1/3 cup freshly squeezed lemon juice", "1/4 cup minced fresh parsley", "2 tablespoons minced garlic (6 cloves)", "1 tablespoon minced fresh thyme leaves"],
+          "steps": ["Preheat the oven to 400 degrees F.", "Season the chicken breasts with salt and pepper.", "Combine the olive oil, lemon zest, lemon juice, parsley, garlic, and thyme in a small bowl.", "Pour the mixture over the chicken breasts.", "Bake for 30-40 minutes, until the chicken is cooked through."],
+          "image_url": "https://example.com/lemon_chicken.jpg",
+          "rating": 4.7
+        }
+      ]
     },
     {
-        "id": 5,
-        "name": "Carlo Cracco",
-        "years_of_experience": 30,
-        "picture_url": "https://i.ibb.co/px2b2sN/mohamed-nohassi-Ddgl-Eo-IC2y4-unsplash.jpg",
-        "recipes": ["Risotto alla milanese", "Cotoletta alla milanese", "Tiramisù"],
-        "description": "Carlo Cracco is an Italian chef and restaurateur who is known for his contemporary take on traditional Italian cuisine. He has worked at several Michelin-starred restaurants and has appeared on several cooking shows.",
-        "rating": 4.8
+      "id": 5,
+      "name": "Ina Garten",
+      "picture_url": "https://i.ibb.co/qnwMyYv/johnathan-macedo-4-NQEvx-W2-4w-unsplash.jpg",
+      "years_of_experience": 20,
+      "likes": 10,
+      "recipes": [
+        {
+          "id": 13,
+          "name": "Lemon Chicken",
+          "ingredients": ["4 bone-in, skin-on chicken breasts", "Kosher salt and freshly ground black pepper", "1/3 cup olive oil", "2 teaspoons grated lemon zest (2 lemons)", "1/3 cup freshly squeezed lemon juice", "1/4 cup minced fresh parsley", "2 tablespoons minced garlic (6 cloves)", "1 tablespoon minced fresh thyme leaves"],
+          "steps": ["Preheat the oven to 400 degrees F.", "Season the chicken breasts with salt and pepper.", "Combine the olive oil, lemon zest, lemon juice, parsley, garlic, and thyme in a small bowl.", "Pour the mixture over the chicken breasts.", "Bake for 30-40 minutes, until the chicken is cooked through."],
+          "image_url": "https://example.com/lemon_chicken.jpg",
+          "rating": 4.7
+        },
+        {
+          "id": 14,
+          "name": "Lemon Chicken",
+          "ingredients": ["4 bone-in, skin-on chicken breasts", "Kosher salt and freshly ground black pepper", "1/3 cup olive oil", "2 teaspoons grated lemon zest (2 lemons)", "1/3 cup freshly squeezed lemon juice", "1/4 cup minced fresh parsley", "2 tablespoons minced garlic (6 cloves)", "1 tablespoon minced fresh thyme leaves"],
+          "steps": ["Preheat the oven to 400 degrees F.", "Season the chicken breasts with salt and pepper.", "Combine the olive oil, lemon zest, lemon juice, parsley, garlic, and thyme in a small bowl.", "Pour the mixture over the chicken breasts.", "Bake for 30-40 minutes, until the chicken is cooked through."],
+          "image_url": "https://example.com/lemon_chicken.jpg",
+          "rating": 4.7
+        },
+        {
+          "id": 14,
+          "name": "Lemon Chicken",
+          "ingredients": ["4 bone-in, skin-on chicken breasts", "Kosher salt and freshly ground black pepper", "1/3 cup olive oil", "2 teaspoons grated lemon zest (2 lemons)", "1/3 cup freshly squeezed lemon juice", "1/4 cup minced fresh parsley", "2 tablespoons minced garlic (6 cloves)", "1 tablespoon minced fresh thyme leaves"],
+          "steps": ["Preheat the oven to 400 degrees F.", "Season the chicken breasts with salt and pepper.", "Combine the olive oil, lemon zest, lemon juice, parsley, garlic, and thyme in a small bowl.", "Pour the mixture over the chicken breasts.", "Bake for 30-40 minutes, until the chicken is cooked through."],
+          "image_url": "https://example.com/lemon_chicken.jpg",
+          "rating": 4.7
+        }
+      ]
     },
     {
-        "id": 6,
-        "name": "Nadia Santini",
-        "years_of_experience": 50,
-        "picture_url": "https://i.ibb.co/kDDQG9R/ronan-kruithof-GSD9-Vo-G6f-U-unsplash.jpg",
-        "recipes": ["Ossobuco alla milanese", "Risotto with saffron", "Ravioli with sage butter sauce"],
-        "description": "Carlo Cracco is an Italian chef and restaurateur who is known for his contemporary take on traditional Italian cuisine. He has worked at several Michelin-starred restaurants and has appeared on several cooking shows.",
-        "rating": 4.8
+      "id": 6,
+      "name": "Ina Garten",
+      "picture_url": "https://i.ibb.co/qnwMyYv/johnathan-macedo-4-NQEvx-W2-4w-unsplash.jpg",
+      "years_of_experience": 20,
+      "likes": 27,
+      "recipes": [
+        {
+          "id": 16,
+          "name": "Lemon Chicken",
+          "ingredients": ["4 bone-in, skin-on chicken breasts", "Kosher salt and freshly ground black pepper", "1/3 cup olive oil", "2 teaspoons grated lemon zest (2 lemons)", "1/3 cup freshly squeezed lemon juice", "1/4 cup minced fresh parsley", "2 tablespoons minced garlic (6 cloves)", "1 tablespoon minced fresh thyme leaves"],
+          "steps": ["Preheat the oven to 400 degrees F.", "Season the chicken breasts with salt and pepper.", "Combine the olive oil, lemon zest, lemon juice, parsley, garlic, and thyme in a small bowl.", "Pour the mixture over the chicken breasts.", "Bake for 30-40 minutes, until the chicken is cooked through."],
+          "image_url": "https://example.com/lemon_chicken.jpg",
+          "rating": 4.7
+        },
+        {
+          "id": 17,
+          "name": "Lemon Chicken",
+          "ingredients": ["4 bone-in, skin-on chicken breasts", "Kosher salt and freshly ground black pepper", "1/3 cup olive oil", "2 teaspoons grated lemon zest (2 lemons)", "1/3 cup freshly squeezed lemon juice", "1/4 cup minced fresh parsley", "2 tablespoons minced garlic (6 cloves)", "1 tablespoon minced fresh thyme leaves"],
+          "steps": ["Preheat the oven to 400 degrees F.", "Season the chicken breasts with salt and pepper.", "Combine the olive oil, lemon zest, lemon juice, parsley, garlic, and thyme in a small bowl.", "Pour the mixture over the chicken breasts.", "Bake for 30-40 minutes, until the chicken is cooked through."],
+          "image_url": "https://example.com/lemon_chicken.jpg",
+          "rating": 4.7
+        },
+        {
+          "id": 18,
+          "name": "Lemon Chicken",
+          "ingredients": ["4 bone-in, skin-on chicken breasts", "Kosher salt and freshly ground black pepper", "1/3 cup olive oil", "2 teaspoons grated lemon zest (2 lemons)", "1/3 cup freshly squeezed lemon juice", "1/4 cup minced fresh parsley", "2 tablespoons minced garlic (6 cloves)", "1 tablespoon minced fresh thyme leaves"],
+          "steps": ["Preheat the oven to 400 degrees F.", "Season the chicken breasts with salt and pepper.", "Combine the olive oil, lemon zest, lemon juice, parsley, garlic, and thyme in a small bowl.", "Pour the mixture over the chicken breasts.", "Bake for 30-40 minutes, until the chicken is cooked through."],
+          "image_url": "https://example.com/lemon_chicken.jpg",
+          "rating": 4.7
+        }
+      ]
     }
 ]
