@@ -7,15 +7,15 @@
       "likes": 20,
       "recipes": [
         {
-          "id": 1,
+          "recipe_id": 1,
           "name": "Beef Wellington",
           "ingredients": ["2 lb beef tenderloin", "2 tbsp olive oil", "2 tsp dijon mustard", "8 oz prosciutto", "1 package puff pastry", "1 egg yolk"],
-          "steps": ["Preheat oven to 425°F.", "Season the beef with salt and pepper, then sear in a hot pan with olive oil until browned on all sides.", "Brush the beef with dijon mustard and wrap in prosciutto.", "Roll out the puff pastry and wrap around the beef, sealing the edges.", "Brush with egg yolk and bake in the oven for 40-50 minutes, until the pastry is golden brown."],
+          "steps": ["Preheat oven to 425°F.", "Season the beef with salt and pepper, then sear in a hot pan with olive oil until browned on all srecipe_ides.", "Brush the beef with dijon mustard and wrap in prosciutto.", "Roll out the puff pastry and wrap around the beef, sealing the edges.", "Brush with egg yolk and bake in the oven for 40-50 minutes, until the pastry is golden brown."],
           "image_url": "https://example.com/beef_wellington.jpg",
           "rating": 4.8
         },
         {
-          "id": 2,
+          "recipe_id": 2,
           "name": "Shepherd's Pie",
           "ingredients": ["1 lb ground lamb", "1 onion, diced", "3 carrots, diced", "2 cloves garlic, minced", "2 tbsp tomato paste", "1 tsp Worcestershire sauce", "1 cup beef broth", "2 cups mashed potatoes"],
           "steps": ["Preheat oven to 375°F.", "Cook the lamb in a skillet over medium heat until browned, then add the onion, carrots, and garlic and cook until softened.", "Add the tomato paste, Worcestershire sauce, and beef broth and stir to combine.", "Transfer to a baking dish and top with mashed potatoes.", "Bake for 20-25 minutes, until the potatoes are golden brown."],
@@ -23,7 +23,7 @@
           "rating": 4.5
         },
         {
-          "id": 3,
+          "recipe_id": 3,
           "name": "Shepherd's Pie",
           "ingredients": ["1 lb ground lamb", "1 onion, diced", "3 carrots, diced", "2 cloves garlic, minced", "2 tbsp tomato paste", "1 tsp Worcestershire sauce", "1 cup beef broth", "2 cups mashed potatoes"],
           "steps": ["Preheat oven to 375°F.", "Cook the lamb in a skillet over medium heat until browned, then add the onion, carrots, and garlic and cook until softened.", "Add the tomato paste, Worcestershire sauce, and beef broth and stir to combine.", "Transfer to a baking dish and top with mashed potatoes.", "Bake for 20-25 minutes, until the potatoes are golden brown."],
@@ -40,21 +40,21 @@
       "likes": 25,
       "recipes": [
         {
-          "id": 4,
+          "recipe_id": 4,
           "name": "Lemon Chicken",
           "ingredients": ["4 bone-in, skin-on chicken breasts", "Kosher salt and freshly ground black pepper", "1/3 cup olive oil", "2 teaspoons grated lemon zest (2 lemons)", "1/3 cup freshly squeezed lemon juice", "1/4 cup minced fresh parsley", "2 tablespoons minced garlic (6 cloves)", "1 tablespoon minced fresh thyme leaves"],
           "steps": ["Preheat the oven to 400 degrees F.", "Season the chicken breasts with salt and pepper.", "Combine the olive oil, lemon zest, lemon juice, parsley, garlic, and thyme in a small bowl.", "Pour the mixture over the chicken breasts.", "Bake for 30-40 minutes, until the chicken is cooked through."],
           "rating": 4.7
         },
         {
-          "id": 5,
+          "recipe_id": 5,
           "name": "Lemon Chicken",
           "ingredients": ["4 bone-in, skin-on chicken breasts", "Kosher salt and freshly ground black pepper", "1/3 cup olive oil", "2 teaspoons grated lemon zest (2 lemons)", "1/3 cup freshly squeezed lemon juice", "1/4 cup minced fresh parsley", "2 tablespoons minced garlic (6 cloves)", "1 tablespoon minced fresh thyme leaves"],
           "steps": ["Preheat the oven to 400 degrees F.", "Season the chicken breasts with salt and pepper.", "Combine the olive oil, lemon zest, lemon juice, parsley, garlic, and thyme in a small bowl.", "Pour the mixture over the chicken breasts.", "Bake for 30-40 minutes, until the chicken is cooked through."],
           "rating": 4.7
         },
         {
-          "id": 6,
+          "recipe_id": 6,
           "name": "Lemon Chicken",
           "ingredients": ["4 bone-in, skin-on chicken breasts", "Kosher salt and freshly ground black pepper", "1/3 cup olive oil", "2 teaspoons grated lemon zest (2 lemons)", "1/3 cup freshly squeezed lemon juice", "1/4 cup minced fresh parsley", "2 tablespoons minced garlic (6 cloves)", "1 tablespoon minced fresh thyme leaves"],
           "steps": ["Preheat the oven to 400 degrees F.", "Season the chicken breasts with salt and pepper.", "Combine the olive oil, lemon zest, lemon juice, parsley, garlic, and thyme in a small bowl.", "Pour the mixture over the chicken breasts.", "Bake for 30-40 minutes, until the chicken is cooked through."],
@@ -70,21 +70,21 @@
       "likes": 22,
       "recipes": [
         {
-          "id": 7,
+          "recipe_id": 7,
           "name": "Lemon Chicken",
           "ingredients": ["4 bone-in, skin-on chicken breasts", "Kosher salt and freshly ground black pepper", "1/3 cup olive oil", "2 teaspoons grated lemon zest (2 lemons)", "1/3 cup freshly squeezed lemon juice", "1/4 cup minced fresh parsley", "2 tablespoons minced garlic (6 cloves)", "1 tablespoon minced fresh thyme leaves"],
           "steps": ["Preheat the oven to 400 degrees F.", "Season the chicken breasts with salt and pepper.", "Combine the olive oil, lemon zest, lemon juice, parsley, garlic, and thyme in a small bowl.", "Pour the mixture over the chicken breasts.", "Bake for 30-40 minutes, until the chicken is cooked through."],
           "rating": 4.7
         },
         {
-          "id": 8,
+          "recipe_id": 8,
           "name": "Lemon Chicken",
           "ingredients": ["4 bone-in, skin-on chicken breasts", "Kosher salt and freshly ground black pepper", "1/3 cup olive oil", "2 teaspoons grated lemon zest (2 lemons)", "1/3 cup freshly squeezed lemon juice", "1/4 cup minced fresh parsley", "2 tablespoons minced garlic (6 cloves)", "1 tablespoon minced fresh thyme leaves"],
           "steps": ["Preheat the oven to 400 degrees F.", "Season the chicken breasts with salt and pepper.", "Combine the olive oil, lemon zest, lemon juice, parsley, garlic, and thyme in a small bowl.", "Pour the mixture over the chicken breasts.", "Bake for 30-40 minutes, until the chicken is cooked through."],
           "rating": 4.7
         },
         {
-          "id": 9,
+          "recipe_id": 9,
           "name": "Lemon Chicken",
           "ingredients": ["4 bone-in, skin-on chicken breasts", "Kosher salt and freshly ground black pepper", "1/3 cup olive oil", "2 teaspoons grated lemon zest (2 lemons)", "1/3 cup freshly squeezed lemon juice", "1/4 cup minced fresh parsley", "2 tablespoons minced garlic (6 cloves)", "1 tablespoon minced fresh thyme leaves"],
           "steps": ["Preheat the oven to 400 degrees F.", "Season the chicken breasts with salt and pepper.", "Combine the olive oil, lemon zest, lemon juice, parsley, garlic, and thyme in a small bowl.", "Pour the mixture over the chicken breasts.", "Bake for 30-40 minutes, until the chicken is cooked through."],
@@ -100,21 +100,21 @@
       "likes": 15,
       "recipes": [
         {
-          "id": 10,
+          "recipe_id": 10,
           "name": "Lemon Chicken",
           "ingredients": ["4 bone-in, skin-on chicken breasts", "Kosher salt and freshly ground black pepper", "1/3 cup olive oil", "2 teaspoons grated lemon zest (2 lemons)", "1/3 cup freshly squeezed lemon juice", "1/4 cup minced fresh parsley", "2 tablespoons minced garlic (6 cloves)", "1 tablespoon minced fresh thyme leaves"],
           "steps": ["Preheat the oven to 400 degrees F.", "Season the chicken breasts with salt and pepper.", "Combine the olive oil, lemon zest, lemon juice, parsley, garlic, and thyme in a small bowl.", "Pour the mixture over the chicken breasts.", "Bake for 30-40 minutes, until the chicken is cooked through."],
           "rating": 4.7
         },
         {
-          "id": 11,
+          "recipe_id": 11,
           "name": "Lemon Chicken",
           "ingredients": ["4 bone-in, skin-on chicken breasts", "Kosher salt and freshly ground black pepper", "1/3 cup olive oil", "2 teaspoons grated lemon zest (2 lemons)", "1/3 cup freshly squeezed lemon juice", "1/4 cup minced fresh parsley", "2 tablespoons minced garlic (6 cloves)", "1 tablespoon minced fresh thyme leaves"],
           "steps": ["Preheat the oven to 400 degrees F.", "Season the chicken breasts with salt and pepper.", "Combine the olive oil, lemon zest, lemon juice, parsley, garlic, and thyme in a small bowl.", "Pour the mixture over the chicken breasts.", "Bake for 30-40 minutes, until the chicken is cooked through."],
           "rating": 4.7
         },
         {
-          "id": 12,
+          "recipe_id": 12,
           "name": "Lemon Chicken",
           "ingredients": ["4 bone-in, skin-on chicken breasts", "Kosher salt and freshly ground black pepper", "1/3 cup olive oil", "2 teaspoons grated lemon zest (2 lemons)", "1/3 cup freshly squeezed lemon juice", "1/4 cup minced fresh parsley", "2 tablespoons minced garlic (6 cloves)", "1 tablespoon minced fresh thyme leaves"],
           "steps": ["Preheat the oven to 400 degrees F.", "Season the chicken breasts with salt and pepper.", "Combine the olive oil, lemon zest, lemon juice, parsley, garlic, and thyme in a small bowl.", "Pour the mixture over the chicken breasts.", "Bake for 30-40 minutes, until the chicken is cooked through."],
@@ -130,21 +130,21 @@
       "likes": 10,
       "recipes": [
         {
-          "id": 13,
+          "recipe_id": 13,
           "name": "Lemon Chicken",
           "ingredients": ["4 bone-in, skin-on chicken breasts", "Kosher salt and freshly ground black pepper", "1/3 cup olive oil", "2 teaspoons grated lemon zest (2 lemons)", "1/3 cup freshly squeezed lemon juice", "1/4 cup minced fresh parsley", "2 tablespoons minced garlic (6 cloves)", "1 tablespoon minced fresh thyme leaves"],
           "steps": ["Preheat the oven to 400 degrees F.", "Season the chicken breasts with salt and pepper.", "Combine the olive oil, lemon zest, lemon juice, parsley, garlic, and thyme in a small bowl.", "Pour the mixture over the chicken breasts.", "Bake for 30-40 minutes, until the chicken is cooked through."],
           "rating": 4.7
         },
         {
-          "id": 14,
+          "recipe_id": 14,
           "name": "Lemon Chicken",
           "ingredients": ["4 bone-in, skin-on chicken breasts", "Kosher salt and freshly ground black pepper", "1/3 cup olive oil", "2 teaspoons grated lemon zest (2 lemons)", "1/3 cup freshly squeezed lemon juice", "1/4 cup minced fresh parsley", "2 tablespoons minced garlic (6 cloves)", "1 tablespoon minced fresh thyme leaves"],
           "steps": ["Preheat the oven to 400 degrees F.", "Season the chicken breasts with salt and pepper.", "Combine the olive oil, lemon zest, lemon juice, parsley, garlic, and thyme in a small bowl.", "Pour the mixture over the chicken breasts.", "Bake for 30-40 minutes, until the chicken is cooked through."],
           "rating": 4.7
         },
         {
-          "id": 14,
+          "recipe_id": 14,
           "name": "Lemon Chicken",
           "ingredients": ["4 bone-in, skin-on chicken breasts", "Kosher salt and freshly ground black pepper", "1/3 cup olive oil", "2 teaspoons grated lemon zest (2 lemons)", "1/3 cup freshly squeezed lemon juice", "1/4 cup minced fresh parsley", "2 tablespoons minced garlic (6 cloves)", "1 tablespoon minced fresh thyme leaves"],
           "steps": ["Preheat the oven to 400 degrees F.", "Season the chicken breasts with salt and pepper.", "Combine the olive oil, lemon zest, lemon juice, parsley, garlic, and thyme in a small bowl.", "Pour the mixture over the chicken breasts.", "Bake for 30-40 minutes, until the chicken is cooked through."],
@@ -160,21 +160,21 @@
       "likes": 27,
       "recipes": [
         {
-          "id": 16,
+          "recipe_id": 16,
           "name": "Lemon Chicken",
           "ingredients": ["4 bone-in, skin-on chicken breasts", "Kosher salt and freshly ground black pepper", "1/3 cup olive oil", "2 teaspoons grated lemon zest (2 lemons)", "1/3 cup freshly squeezed lemon juice", "1/4 cup minced fresh parsley", "2 tablespoons minced garlic (6 cloves)", "1 tablespoon minced fresh thyme leaves"],
           "steps": ["Preheat the oven to 400 degrees F.", "Season the chicken breasts with salt and pepper.", "Combine the olive oil, lemon zest, lemon juice, parsley, garlic, and thyme in a small bowl.", "Pour the mixture over the chicken breasts.", "Bake for 30-40 minutes, until the chicken is cooked through."],
           "rating": 4.7
         },
         {
-          "id": 17,
+          "recipe_id": 17,
           "name": "Lemon Chicken",
           "ingredients": ["4 bone-in, skin-on chicken breasts", "Kosher salt and freshly ground black pepper", "1/3 cup olive oil", "2 teaspoons grated lemon zest (2 lemons)", "1/3 cup freshly squeezed lemon juice", "1/4 cup minced fresh parsley", "2 tablespoons minced garlic (6 cloves)", "1 tablespoon minced fresh thyme leaves"],
           "steps": ["Preheat the oven to 400 degrees F.", "Season the chicken breasts with salt and pepper.", "Combine the olive oil, lemon zest, lemon juice, parsley, garlic, and thyme in a small bowl.", "Pour the mixture over the chicken breasts.", "Bake for 30-40 minutes, until the chicken is cooked through."],
           "rating": 4.7
         },
         {
-          "id": 18,
+          "recipe_id": 18,
           "name": "Lemon Chicken",
           "ingredients": ["4 bone-in, skin-on chicken breasts", "Kosher salt and freshly ground black pepper", "1/3 cup olive oil", "2 teaspoons grated lemon zest (2 lemons)", "1/3 cup freshly squeezed lemon juice", "1/4 cup minced fresh parsley", "2 tablespoons minced garlic (6 cloves)", "1 tablespoon minced fresh thyme leaves"],
           "steps": ["Preheat the oven to 400 degrees F.", "Season the chicken breasts with salt and pepper.", "Combine the olive oil, lemon zest, lemon juice, parsley, garlic, and thyme in a small bowl.", "Pour the mixture over the chicken breasts.", "Bake for 30-40 minutes, until the chicken is cooked through."],

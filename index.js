@@ -10,9 +10,14 @@ app.get('/', (req, res) => {
     res.send('chef website running')
 })
 
-
 app.get('/chef', (req, res) => {
     res.send(chef);
+})
+
+app.get('/chef/:id', (req, res) => {
+    const id = req.params.id;
+    const selecRecipe = chef.find(singleRecipe => singleRecipe.id == id);
+    res.send(selecRecipe);
 })
 
 app.listen(port, () => {
