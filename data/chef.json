@@ -1,11 +1,11 @@
 [
     {
       "id": 1,
-      "name": "Gordon Ramsay",
+      "name": "Massimo Bottura",
       "picture_url": "https://i.ibb.co/k5WBZXW/febrian-zakaria-Si-Qgni-cq-Fg-unsplash.jpg",
-      "years_of_experience": 30,
+      "years_of_experience": 17,
       "likes": 20,
-      "description": "Mario Batali is a renowned Italian-American chef who has been a fixture on the culinary scene for over two decades. He is known for his authentic Italian dishes and has authored several cookbooks.",
+      "description": "Bottura is a renowned chef and owner of Osteria Francescana, a three-Michelin-star restaurant located in Modena, Italy. He is known for his innovative and playful approach to Italian cuisine, which has earned him international acclaim.",
       "recipes": [
         {
           "recipe_id": 1,
@@ -35,11 +35,11 @@
     },
     {
       "id": 2,
-      "name": "Ina Garten",
+      "name": "Mario Batali",
       "picture_url": "https://i.ibb.co/qnwMyYv/johnathan-macedo-4-NQEvx-W2-4w-unsplash.jpg",
-      "years_of_experience": 20,
+      "years_of_experience": 12,
       "likes": 25,
-      "description": "Mario Batali is a renowned Italian-American chef who has been a fixture on the culinary scene for over two decades. He is known for his authentic Italian dishes and has authored several cookbooks.",
+      "description": "Batali is a celebrity chef, restaurateur, and television personality who has popularized Italian cuisine in the United States. He is known for his love of traditional Italian ingredients and techniques, and has authored several cookbooks.",
       "recipes": [
         {
           "recipe_id": 4,
@@ -69,11 +69,11 @@
     },
     {
       "id": 3,
-      "name": "Ina Garten",
-      "picture_url": "https://i.ibb.co/qnwMyYv/johnathan-macedo-4-NQEvx-W2-4w-unsplash.jpg",
+      "name": "Lidia Bastianich",
+      "picture_url": "https://i.ibb.co/Yk7xnts/chef-g06d623fe2-1280.jpg",
       "years_of_experience": 20,
       "likes": 22,
-      "description": "Mario Batali is a renowned Italian-American chef who has been a fixture on the culinary scene for over two decades. He is known for his authentic Italian dishes and has authored several cookbooks.",
+      "description": "Bastianich is an Emmy award-winning television host, cookbook author, and restaurateur. She is known for her traditional Italian cooking, which is inspired by the cuisine of her native Istria.",
       "recipes": [
         {
           "recipe_id": 7,
@@ -103,11 +103,11 @@
     },
     {
       "id": 4,
-      "name": "Ina Garten",
-      "picture_url": "https://i.ibb.co/qnwMyYv/johnathan-macedo-4-NQEvx-W2-4w-unsplash.jpg",
-      "years_of_experience": 20,
+      "name": "Giada De Laurentiis",
+      "picture_url": "https://i.ibb.co/rFSRwSj/chef-gde2c8b106-1920.jpg",
+      "years_of_experience": 23,
       "likes": 15,
-      "description": "Mario Batali is a renowned Italian-American chef who has been a fixture on the culinary scene for over two decades. He is known for his authentic Italian dishes and has authored several cookbooks.",
+      "description": "De Laurentiis is a television personality and cookbook author who has brought Italian cuisine to a wider audience in the United States. She is known for her simple and fresh approach to cooking, which emphasizes the use of quality ingredients.",
       "recipes": [
         {
           "recipe_id": 10,
@@ -137,11 +137,11 @@
     },
     {
       "id": 5,
-      "name": "Ina Garten",
-      "picture_url": "https://i.ibb.co/qnwMyYv/johnathan-macedo-4-NQEvx-W2-4w-unsplash.jpg",
-      "years_of_experience": 20,
+      "name": "Gualtiero Marchesi",
+      "picture_url": "https://i.ibb.co/k5WBZXW/febrian-zakaria-Si-Qgni-cq-Fg-unsplash.jpg",
+      "years_of_experience": 15,
       "likes": 10,
-      "description": "Mario Batali is a renowned Italian-American chef who has been a fixture on the culinary scene for over two decades. He is known for his authentic Italian dishes and has authored several cookbooks.",
+      "description": "Marchesi was a pioneering Italian chef who is credited with modernizing Italian cuisine. He earned three Michelin stars for his Milan restaurant, Gualtiero Marchesi, and has been an inspiration to generations of Italian chefs.",
       "recipes": [
         {
           "recipe_id": 13,
@@ -171,11 +171,11 @@
     },
     {
       "id": 6,
-      "name": "Ina Garten",
-      "picture_url": "https://i.ibb.co/qnwMyYv/johnathan-macedo-4-NQEvx-W2-4w-unsplash.jpg",
-      "years_of_experience": 20,
+      "name": "Carlo Cracco",
+      "picture_url": "https://i.ibb.co/rFFL4n4/kitchen-ga6fb9530c-1920.jpg",
+      "years_of_experience": 25,
       "likes": 27,
-      "description": "Mario Batali is a renowned Italian-American chef who has been a fixture on the culinary scene for over two decades. He is known for his authentic Italian dishes and has authored several cookbooks.",
+      "description": " Cracco is a Michelin-starred chef and television personality who has brought a modern and innovative approach to Italian cuisine. He is known for his use of molecular gastronomy techniques and for his dedication to using locally-sourced ingredients.",
       "recipes": [
         {
           "recipe_id": 16,
@@ -190,7 +190,7 @@
           "name": "Lemon Chicken",
           "ingredients": ["4 bone-in, skin-on chicken breasts", "Kosher salt and freshly ground black pepper", "1/3 cup olive oil", "2 teaspoons grated lemon zest (2 lemons)", "1/3 cup freshly squeezed lemon juice", "1/4 cup minced fresh parsley", "2 tablespoons minced garlic (6 cloves)", "1 tablespoon minced fresh thyme leaves"],
           "Method": "stove",
-          "image_url": "https://i.ibb.co/2qfjygy/Asian-Lemon-Chicken-Recipe-Photo-Picture-1-2-480x270.jpg",
+          "image_url": "https://i.ibb.co/rwxTz2K/service-g2fec54ce5-1920.jpg",
           "rating": 4.7
         },
         {
